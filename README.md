@@ -14,7 +14,7 @@
 
 - Technologies used: HTML, CSS, Javascript
 
-## Live Demo (if available)
+## Live Demo 
 
 [Live Demo Link](https://banzaman.github.io/mv-awesomeBooks.github.io/)
 
